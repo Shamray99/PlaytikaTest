@@ -1,0 +1,8 @@
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Task2.dll
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Task2.pdb
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\obj\Debug\Task2.dll
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\obj\Debug\Task2.pdb
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task2\bin\Debug\Newtonsoft.Json.xml

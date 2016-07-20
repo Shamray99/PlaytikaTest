@@ -1,0 +1,10 @@
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Task1.dll
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Task1.pdb
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Newtonsoft.Json.dll
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Newtonsoft.Json.xml
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\obj\Debug\Task1.dll
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\obj\Debug\Task1.pdb
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Task1.dll.config
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Twitterizer2.dll
+c:\users\guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\bin\Debug\Twitterizer2.xml
+C:\Users\Guy\documents\visual studio 2015\Projects\PlaytikaTest\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
